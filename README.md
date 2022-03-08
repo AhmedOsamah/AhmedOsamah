@@ -5,13 +5,22 @@
 
 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/osamah-sharaf-aldeen-a98240211" style="margin:0 10px">
+    <img alt="Osamah's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>&nbsp;
+  <a href="mailto:osamah.sharaf23@gmail.com" style="margin:0 10px">
+    <img alt="Osamah's Gmail" width="30px" src="https://raw.githubusercontent.com/jzsfkzm/color-icons-for-gmail/master/resources/Gmail-Icon.png" />
+  </a>
+</p>
+
+
+
 
 
 
 
 - 🔭 I’m currently working on Python programming.
 - 🌱 I’m currently learning P5.js graphic design and React.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything on algorityhms and programming process.
-- 📫 How to reach me: osamah.sharaf23@gmail.com
+- 📫 Reach me on osamah.sharaf23@gmail.com
