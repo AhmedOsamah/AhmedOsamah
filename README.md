@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, It's Osamah :) 👋
 
-<!--
-**AhmedOsamah/AhmedOsamah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Osamah Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
+
+
+
+
+- 🔭 I’m currently working on Python programming.
+- 🌱 I’m currently learning P5.js graphic design and React.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anything on algorityhms and programming process.
+- 📫 How to reach me: osamah.sharaf23@gmail.com
