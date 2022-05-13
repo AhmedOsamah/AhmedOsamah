@@ -43,7 +43,7 @@
 
 
 
-- 🔭 I’m currently working on Python programming and Django.
+- 🔭 I’m currently working on Python programming .
 - 🌱 I’m currently learning P5.js graphic design and React.
 - 💬 Ask me about anything on algorityhms and programming process.
 - 📫 Reach me on osamah.sharaf23@gmail.com
