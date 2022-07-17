@@ -16,7 +16,12 @@
 
 
 
-<p align="center">I’m an ambitious student of Software Engineering. I'm improving myself on Python technologies. I am very excited to learn something new day-by-day. The way I learn something new is by getting my hands dirty on projects.</p>
+<p align="center">My name is Osamah, and I am from Yemen. I am a fourth-year student studying in Turkey at İstanbul Sabahattin Zaim University.
+
+I came from my country to study at the university level, majoring in the field of Software Engineering. I am in my fourth year and passionate about this specialization because computers are considered one of the most critical modern devices used today.
+
+
+In addition, I have a good background in programming languages ​​and their basics, especially Python, pyqt5 designer, Django, HTML, CSS, Javascript, AJAX, Git, SQL, and JSON. I trained for one month in a company using Django. I also have a background in logic design and I read about artificial intelligence, also I keep myself up to date with new advances in computer science.</p>
 
 
 <h3 align="center">Technologies</h3>
